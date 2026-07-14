@@ -27,7 +27,7 @@ The project serves as a culminating academic assignment that applies concepts le
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/my-capstone-project.git
+   git clone https://github.com/ramish-khan204/my-capstone-project.git
    cd my-capstone-project
    ```
 
@@ -45,7 +45,7 @@ The project serves as a culminating academic assignment that applies concepts le
 
 4. Open the application in your browser at the URL shown in the terminal (commonly `http://localhost:5173` or similar).
 
-> **Note:** Update the clone URL and npm scripts once the project structure and tooling are finalized.
+> **Note:** Update the npm scripts once the project structure and tooling are finalized.
 
 ## Author
 
