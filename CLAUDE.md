@@ -103,3 +103,12 @@ chore: add .gitignore entries for dist and .env
 2. Propose or implement a focused solution.
 3. Verify the change (build, lint, manual check) when tooling is available.
 4. Summarize what changed and why in plain language.
+
+
+## Additional Project Rules Learned
+
+- Always validate user input before saving or submitting data.
+- Every user-facing form must include proper labels and accessibility support.
+- AI-generated code must be reviewed and tested before committing.
+- Consider edge cases and error handling before finalizing features.
+- Use Conventional Commit messages for all Git changes.
